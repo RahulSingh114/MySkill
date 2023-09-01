@@ -1,4 +1,4 @@
 # MySkill
 This is my first Repository
 <br>
-Author - Rahul Singh
+Author - Rahul Kumar Singh
